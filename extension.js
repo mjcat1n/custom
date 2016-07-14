@@ -99,7 +99,7 @@
       themeLink: null,
       fbLink: null,
       youtubeLink: null,
-      website: "www.ognation.xyz",
+      website: "http://ognation.xyz",
       intervalMessages: [],
       messageInterval: 5,
       songstats: true,
